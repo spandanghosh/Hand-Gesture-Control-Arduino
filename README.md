@@ -84,6 +84,9 @@ We connect the VCC and ground pins of both ultrasonic sensors to the Arduino UNO
 
 
 2.3Snapshots-Project , Team, Results
+![Picture1](https://user-images.githubusercontent.com/72367806/176695506-fbbaf743-abfb-4164-a1d3-8b220581e37f.png)
+![Picture2](https://user-images.githubusercontent.com/72367806/176695583-564d0edf-9572-4e3b-ae5d-638e7624639a.png)
+
 
 
 
